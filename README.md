@@ -1,7 +1,7 @@
 # DBScan
 DBScan algoritm implementation with chart created in Swing
 
-- User can change area on which points are randomly placed.
+- User can change area where points are randomly placed.
 - User can change number of points which are randomly placed.
 - User can change minimal number of points which cluster
   must have to exist. 
